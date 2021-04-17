@@ -3,6 +3,17 @@ package model.entities;
 import java.io.Serializable;
 
 public class Department implements Serializable {
+	
+	/*
+	 * Checklist
+	 * 
+	 * Attributes
+	 * Constructors
+	 * Getters/Setters
+	 * hashCode and Equals
+	 * toString
+	 * implements Serializable
+	 */
 
 	private static final long serialVersionUID = 1L;
 
